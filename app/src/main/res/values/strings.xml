@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="number_1">12</string>
+    <string name="number_2">5+10+3</string>
+    <string name="c">AC</string>
+    <string name="k">(</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="o">-</string>
+    <string name="b">*</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="f">/</string>
+    <string name="ku">)</string>
+    <string name="sama_dengan">=</string>
+    <string name="titik">.</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="tambah">+</string>
+    <string name="_3">3</string>
+    <string name="_0">0</string>
+</resources>
